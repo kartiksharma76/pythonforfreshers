@@ -1,0 +1,28 @@
+Step 1: Install Python
+Download Python
+
+Go Python official website:
+https://www.python.org/downloads/
+
+Important during installation:
+Tick “Add Python to PATH”
+Click Install Now
+
+Step 2: Check Installation
+Open Command Prompt (CMD) and type:
+Bash
+python --version
+
+Output example:
+Python 3.x.x
+
+step 3: Write Your First Program
+Method 1: Using Notepad / VS Code
+Open Notepad
+Write:
+print("Hello Kartik ")
+
+Save as:hello.py
+
+Run using CMD:
+python hello.py

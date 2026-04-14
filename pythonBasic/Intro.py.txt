@@ -1,0 +1,55 @@
+python is  a high level interpreted programming language created by Guido van Rossum in 1991.
+It is designed to be:Easy to read,Easy to write,Beginner-friendly
+
+Why Python is Popular?
+
+Python is one of the most used languages today because:
+
+ Simple syntax (almost like English)
+ Less code compared to other languages
+ Huge community support
+ Works in multiple fields (Web, AI, Data Science, Automation)
+
+Where Python is Used?
+
+Python is used in many domains:
+ Web Development (Django, Flask)
+ Data Science & Analytics
+ Artificial Intelligence & Machine Learning
+ Automation & Scripting
+ Game Development
+
+ Companies Using Python
+
+Big companies rely on Python:
+
+Google
+Netflix
+Instagram
+Amazon
+
+Basic Python Syntax Example
+print("Hello, World!")
+
+Features of Python
+ Interpreted (no compilation needed)
+ Object-Oriented
+ Platform Independent
+ Large standard library
+
+How Python Works?
+You write code
+Python interpreter reads it
+Executes line by line
+Gives output
+
+Applications Example
+Calculator app
+Chatbot
+Website backend
+Data analysis tools
+
+Why You Should Learn Python?
+Beginner-friendly entry into coding
+High demand in jobs
+Used in trending technologies like AI
