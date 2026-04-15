@@ -1,0 +1,25 @@
+4. Abstraction (Theory)
+
+Abstraction means hiding implementation details and showing only essential features.
+
+Simple:
+“User ko sirf kaam dikhana, andar ka logic hide karna”
+
+ Key Points
+Focus on what to do, not how to do
+Achieved using abstract classes & methods
+Improves security + reduces complexity
+
+
+ Abstract Class
+A class that cannot be instantiated
+Contains abstract methods
+Created using abc module
+
+
+ Abstract Method
+Method with no body (only declaration)
+Must be implemented in child class
+
+ Import Required
+from abc import ABC, abstractmethod

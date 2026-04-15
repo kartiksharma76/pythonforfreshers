@@ -1,0 +1,29 @@
+2. Inheritance (Theory)
+
+Inheritance means one class (child) can acquire properties and methods of another class (parent).
+
+Simple:
+“Code reuse + hierarchy banana”
+
+ Key Points
+Reusability of code
+Reduces duplication
+Creates relationship (IS-A relationship)
+
+
+ Types of Inheritance
+Single Inheritance
+Multiple Inheritance
+Multilevel Inheritance
+Hierarchical Inheritance
+Hybrid Inheritance
+
+
+ super() Function (Theory)
+Used to call parent class constructor/method
+Avoids rewriting parent code
+
+
+ issubclass() (Theory)
+Checks if a class is derived from another class
+issubclass(Child, Parent)

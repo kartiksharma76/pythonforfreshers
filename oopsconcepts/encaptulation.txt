@@ -1,0 +1,43 @@
+Encapsulation means binding data (variables) and methods (functions) into a single unit (class) and restricting 
+direct access to some parts of the object.
+
+ In simple terms:
+“Data ko protect karna + controlled access dena”
+
+
+Key Points
+Data is hidden from outside world
+Access is controlled using methods
+Improves security + maintainability
+
+Data Hiding (Theory)
+Data hiding = restricting direct access to variables
+
+Python me:
+Public → directly accessible
+Protected → _var (convention)
+Private → __var (name mangling)
+
+
+
+Access Modifiers
+------------------------------------------------
+| Type      | Syntax  | Access Level            |
+| --------- | ------- | ----------------------- |
+| Public    | `var`   | Anywhere                |
+| Protected | `_var`  | Within class + subclass |
+| Private   | `__var` | Only inside class       |
+-------------------------------------------------
+
+Variables & Methods (Theory)
+Instance Variables
+Object specific
+Defined using self
+ Class Variables
+Shared by all objects
+ Instance Methods
+Work on object data
+ Class Methods
+Work on class data (cls)
+ Static Methods
+Utility methods (no dependency)

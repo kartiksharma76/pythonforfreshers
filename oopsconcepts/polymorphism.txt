@@ -1,0 +1,19 @@
+3. Polymorphism (Theory)
+
+Polymorphism means “same name, different behavior”
+
+Simple:
+Ek hi method/function alag-alag way me kaam kare
+
+ Key Points
+Same interface, different implementation
+Increases flexibility
+Works with inheritance
+
+
+Types of Polymorphism
+Method Overriding (Runtime Polymorphism)
+Method Overloading (Python style)
+Operator Overloading
+Duck Typing
+Dynamic Binding
